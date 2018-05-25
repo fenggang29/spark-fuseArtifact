@@ -1,0 +1,5 @@
+/Users/fenggang/work/spark/sql/catalyst/src/test/java/org/apache/spark/sql/catalyst/expressions/XXH64Suite.java
+/Users/fenggang/work/spark/sql/catalyst/src/test/java/org/apache/spark/sql/streaming/JavaGroupStateTimeoutSuite.java
+/Users/fenggang/work/spark/sql/catalyst/src/test/java/org/apache/spark/sql/catalyst/expressions/HiveHasherSuite.java
+/Users/fenggang/work/spark/sql/catalyst/src/test/java/org/apache/spark/sql/catalyst/expressions/RowBasedKeyValueBatchSuite.java
+/Users/fenggang/work/spark/sql/catalyst/src/test/java/org/apache/spark/sql/streaming/JavaOutputModeSuite.java
